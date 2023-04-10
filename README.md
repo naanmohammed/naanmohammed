@@ -1,3 +1,3 @@
 <h3> Hi, I am Naan. <h3>
 
-![alt text](https://github.com/naanmohammed/naanmohammed/blob/main/Naan%20Mohammed.gif?raw=true)
+<img src="https://github.com/naanmohammed/naanmohammed/blob/main/Naan%20Mohammed.gif" height="100" width="200"></img>
