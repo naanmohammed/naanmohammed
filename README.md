@@ -46,6 +46,4 @@ Thanks for stopping by, and I look forward to connecting with you!
 
 
 <!--START_SECTION:waka-->
-
-
 <!--END_SECTION:waka-->
