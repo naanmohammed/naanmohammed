@@ -7,7 +7,7 @@ I'm a software developer with expertise in C#, JavaScript, ASP.NET, and React. W
  <hr>
 🔭 Current Work <br>**
 I am currently learning Full Stac Web Development at Microverse, where I am expanding my technical and soft skills.
-
+<br>
 **🌱 Learning <br>**
 As a developer, I believe that learning is a lifelong process, and I'm constantly exploring new technologies and frameworks to improve my skills. Currently, I'm focusing on Javascript.
 
