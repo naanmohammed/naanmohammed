@@ -18,6 +18,5 @@ You can reach out to me via email at naanahmed24@gmail.com or on telegram at @nb
 
 ⚡ Fun fact <br>
 When I'm not coding, I love to play and watch Football.
-
 Thanks for stopping by, and I look forward to connecting with you!
   </p>
