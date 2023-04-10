@@ -43,3 +43,9 @@ Thanks for stopping by, and I look forward to connecting with you!
 ![Naan's GitHub stats](https://github-readme-stats.vercel.app/api?username=naanmohammed&show_icons=true&theme=radical&count_private=true) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=naanmohammed&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=naanmohammed&theme=dark)](https://git.io/streak-stats)
+
+
+<!--START_SECTION:waka-->
+
+
+<!--END_SECTION:waka-->
