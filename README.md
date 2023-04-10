@@ -3,6 +3,7 @@
 <img src="https://github.com/naanmohammed/naanmohammed/blob/main/Naan%20Mohammed.gif" height="300" width="2000"></img>
 ####
 I'm a software developer with expertise in C#, JavaScript, ASP.NET, and React. With over [number of years] years of experience in the industry, I have worked on various projects ranging from web applications to desktop software.<br>
+ <hr>
 **🔭 Current Work <br>**
 I am currently learning Full Stac Web Development at Microverse, where I am expanding my technical and soft skills.
 
