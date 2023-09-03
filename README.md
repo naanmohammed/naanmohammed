@@ -56,7 +56,7 @@ Thanks for stopping by, and I look forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2022 - To: 31 August 2023
+From: 11 September 2022 - To: 01 September 2023
 
 Total Time: 495 hrs 57 mins
 
