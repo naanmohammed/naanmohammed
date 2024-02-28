@@ -56,15 +56,15 @@ Thanks for stopping by, and I look forward to connecting with you!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 September 2022 - To: 25 February 2024
+From: 11 September 2022 - To: 27 February 2024
 
-Total Time: 730 hrs 57 mins
+Total Time: 749 hrs 46 mins
 
-JavaScript                 290 hrs 45 mins >>>>>>>>>>---------------   39.78 %
-CSS                        133 hrs 4 mins  >>>>>--------------------   18.21 %
-Ruby                       81 hrs 4 mins   >>>----------------------   11.09 %
-HTML                       55 hrs 3 mins   >>-----------------------   07.53 %
-Python                     33 hrs 32 mins  >------------------------   04.59 %
+JavaScript                 308 hrs 42 mins >>>>>>>>>>---------------   41.17 %
+CSS                        133 hrs 4 mins  >>>>---------------------   17.75 %
+Ruby                       81 hrs 4 mins   >>>----------------------   10.81 %
+HTML                       55 hrs 3 mins   >>-----------------------   07.34 %
+Python                     33 hrs 32 mins  >------------------------   04.47 %
 ```
 
 <!--END_SECTION:waka-->
