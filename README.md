@@ -1,22 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=naanmohammed)
 <h3> Hi, I am Naan.👋 <h3>
- <h4> Available For Hire </h4>
 
 <img src="https://github.com/naanmohammed/naanmohammed/blob/main/Naan%20Mohammed.gif" height="300" width="2000"></img>
 ####
-I'm a software developer with expertise in C#, Ruby on Rails, JavaScript, ASP.NET, and React. With over two years of experience in the industry, I have worked on various projects ranging from web applications to desktop software.<br>
+I'm a Software Engineer turned tech business owner with expertise in C#, Ruby on Rails, JavaScript, ASP.NET, and React. With over four years of experience in the industry, I have worked on various projects ranging from web applications to desktop software.<br>
  <hr>
  
  <h2>🔭 Current Work <br></h2>
-I am currently learning Web Development at Microverse, where I am expanding my technical and soft skills.
-
- 
-<h2>🌱 Learning <br></h2>
-As a developer, I believe that learning is a lifelong process, and I'm constantly exploring new technologies and frameworks to improve my skills. Currently, I'm focusing on Javascript.
-
+I am currently leading a highly expanding tech company which reached over USD 125,000 in revenue in 4 months of operations.
  
 <h2>💬 Ask me about <br></h2>
-If you have any questions related to C#, JavaScript, ASP.NET, or React, feel free to ask me. I'm always happy to help and share my knowledge.
+If you have any questions tech related businesses in Ethiopia, feel free to ask me. I'm always happy to help and share my knowledge.
 <br>
  
 <h2>📫 How to reach me <br></h2>
@@ -24,7 +18,7 @@ You can reach out to me via email at naanahmed24@gmail.com or on telegram at @nb
 <br>
  
 <h2>⚡ Fun fact <br></h2>
-When I'm not coding, I love to play and watch Football.
+When I'm not leading my business, I love to play and watch Football.
 Thanks for stopping by, and I look forward to connecting with you!
  ####
  <br>
