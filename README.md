@@ -3,11 +3,11 @@
 
 <img src="https://github.com/naanmohammed/naanmohammed/blob/main/Naan%20Mohammed.gif" height="300" width="2000"></img>
 ####
-I'm a Software Engineer turned tech business owner with expertise in C#, Ruby on Rails, JavaScript, ASP.NET, and React. With over four years of experience in the industry, I have worked on various projects ranging from web applications to desktop software.<br>
+I'm a Software Engineer turned tech business owner with expertise in Python, C#, Ruby on Rails, JavaScript, ASP.NET, and React. With over five years of experience in the industry, I have worked on various projects ranging from micro-saas products upto medium-level enterprise applications.<br>
  <hr>
  
  <h2>🔭 Current Work <br></h2>
-I am currently leading a highly expanding tech company which reached over USD 125,000 in revenue in 4 months of operations.
+I am currently leading a highly expanding tech company which has brought in over USD 1,500,000 in additional revenue for our clients.
  
 <h2>💬 Ask me about <br></h2>
 If you have any questions tech related businesses in Ethiopia, feel free to ask me. I'm always happy to help and share my knowledge.
